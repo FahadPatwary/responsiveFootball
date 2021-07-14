@@ -52,7 +52,6 @@ button:hover {
   display: flex;
   justify-content: center;
   background-color: var(--primary-color);
-  
 }
 .home__content {
   margin-bottom: 77px;
