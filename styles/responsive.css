@@ -135,12 +135,11 @@
     grid-template-columns: 280px;
     grid-row-gap: 10px;
   }
-
-  /* Code For Footer Section  */
-
-  /* Some Code for own plasure  */
 }
-/* Responsive For tablet  */
+
+/* -------------------------
+Responsive For tablet  
+------------------------------*/
 
 @media only screen and (min-width: 688px) and (max-width: 1024px) {
   .home__section {
@@ -217,7 +216,7 @@
     grid-template-columns: repeat(2, 325px);
   }
 }
-
+/* Code for Better Responsiveness   */
 @media only screen and (min-width: 1024px) and (max-width: 1360px) {
   .home__section {
     padding: 35px;
